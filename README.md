@@ -1,8 +1,8 @@
 # katie-twines
 
 
-[Himalays](himalayas.html)
+[Himalays]('himalayas.html')
 
-[Bee Galaxy](Bee Galaxy.html)
+[Bee Galaxy]('Bee Galaxy.html')
 
-[The Magic Door](The Magic Door.html)
+[The Magic Door]('The Magic Door.html')
