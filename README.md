@@ -1,7 +1,8 @@
 # katie-twines
 
-The Magic Door
 
-Bee Galaxy
+[Himalays](himalayas.html)
 
-Himalays
+[Bee Galaxy](Bee Galaxy.html)
+
+[The Magic Door](The Magic Door.html)
