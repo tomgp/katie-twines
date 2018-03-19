@@ -1,0 +1,119 @@
+<tw-storydata name="Cheeky Little Monkeys in the School" startnode="1" creator="Twine" creator-version="2.1.3" ifid="917FC232-D392-478B-91CF-2A69D937C798" format="Harlowe" format-version="2.0.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
+
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
+</script><tw-passagedata pid="1" name="Class Room" tags="" position="94,539"># Class Room
+
+Hi, it&#x27;s your fist day at school right?
+
+This is my second day and in those two days I have found Some secret passages. 
+
+So what are you waiting for? Let&#x27;s Go!
+
+[[We can go to the hallway-&gt;Hallway]]</tw-passagedata><tw-passagedata pid="2" name="Hallway" tags="" position="291,440"># Hallway
+
+This is where all our art is, and paintings. There&#x27;s some some secret passages around here somewhere I&#x27;m sure but just make sure you don&#x27;t get spotted by the head master.
+
+[[Go to the school hall-&gt;Hall]] or [[the library-&gt;Library]]. Or you can just [[go back to the classroom-&gt;Class Room]]</tw-passagedata><tw-passagedata pid="3" name="Hall" tags="" position="937,1052"># Hall
+
+here&#x27;s where </tw-passagedata><tw-passagedata pid="4" name="Library" tags="" position="456,500"># Library
+
+You can [[read a book]] here or right at the end there&#x27;s a book and if you [[quickly pull it and push it back in a door will open in the bookshelves-&gt;Very Secret Passage]]</tw-passagedata><tw-passagedata pid="5" name="read a book" tags="" position="381,650"># A Book
+
+The book is about blobs. The blobs fart all the time and go the moon because of their farts. The book is funny.
+
+[[put the book away-&gt;Library]]</tw-passagedata><tw-passagedata pid="6" name="Very Secret Passage" tags="" position="643,452">## Very Secret Passage
+
+You walk right forwards, take one step to the left and when I was here before there was a [[dragon egg]] hidden in the dust.
+
+Turn left until there&#x27;s the end and then turn left again.
+
+We&#x27;re underground at the moment. 1 meter below the school.
+
+Walk until you [[find a door-&gt;Small Door]] but it&#x27;s not at the end of the passage.</tw-passagedata><tw-passagedata pid="7" name="dragon egg" tags="" position="1009,487"># Dragon Egg
+
+you&#x27;ve found a Dragon egg! it will hatch when we get to the end of this passage you can [[leave it here-&gt;Very Secret Passage]] or [[take it with us-&gt;Very Secret Passage]]</tw-passagedata><tw-passagedata pid="8" name="Small Door" tags="" position="826,313"># Small Door
+
+If i&#x27;m not very much mistaken there might be a dragon egg here.
+
+It&#x27;s very dark in here. [[Lets crawl through the door-&gt; Small Secret Passage ]].
+</tw-passagedata><tw-passagedata pid="9" name=" Small Secret Passage " tags="" position="1007,261">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
+
+<tw-storydata name="himalayas" startnode="1" creator="Twine" creator-version="2.1.3" ifid="CBBD5078-7C03-44B4-A2C4-80B5B440807D" format="Harlowe" format-version="2.0.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
+
+
+
+
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
+
+
+
+</script><tw-passagedata pid="1" name="introduction" tags="" position="133,162">The Himalayas by Katie.
+I made this on twine for my school project.
+
+[[more info]]</tw-passagedata><tw-passagedata pid="2" name="more info" tags="" position="423,406">Welcome to some of the worlds highest peaks!
+You are an explorer and have come to investigate the himalayas.
+To move around click on the blue words.
+Your mission is to find everest.
+
+Nearly 53 million people live in 5 different countries acros the himalayas; [[Nepal]], [[India]], [[Bangladesh]], [[China]] and [[Pakistan]].
+
+￼&lt;img src=&quot;http://www.toffeemilkshake.co.uk/katie-twines/images/himalayan-city.jpg&quot;&gt;
+
+As well as the worlds highest mountains some of the biggest rivers flow from the Himalayas: the Indus, the Ganges and the Tsangpo-Brahmaputra.
+
+The Himalayas have a big effect on the climate of the region. They keep the monsoon rains on the Indian plain and limit rainfall on the Tibetan plateau.</tw-passagedata><tw-passagedata pid="3" name="India" tags="" position="604,533">The Indian Himalayan Region is the section of the Himalayas within India.
+
+It starts from the foothills of the south and extends up to Tibetan plateau in the north.
+
+Mighty old streams like the Indus, Sutlej, Kali, Kosi and Brahmaputra have cut through steep gorges to escape into the Great Plains.
+
+￼The Himalays were formed 40 to 50 million years ago when India crashed into the Asian plate.
+
+￼&lt;img src=&quot;http://www.toffeemilkshake.co.uk/katie-twines/images/Himalaya-formation.gif&quot;&gt;
+
+From here you can get to [[China]] and [[Nepal]] in the north [[Bangladesh]] in the east and [[Pakistan]] in the west. </tw-passagedata><tw-passagedata pid="4" name="China" tags="" position="598,9">Pangong Tso is a lake which is spread across the border between India and China with an area of 700 km one of the worlds largest lakes.
+
+&lt;img src=&quot;http://www.toffeemilkshake.co.uk/katie-twines/images/Ladakh-Pangong-Lake.jpg&quot;&gt;
+
+[[Pakistan]] is in the west. [[Bangladesh]], [[Nepal]] and [[India]] are in the south.</tw-passagedata><tw-passagedata pid="5" name="Pakistan" tags="" position="134,530">The Himalayas cross the border between India and Pakistan and reach their western end in the dramatic 8000 m peak of Nanga Parbat, which rises above the Indus valley and is the most westerly of the 8000 m summits.
+
+&lt;img src=&quot;http://www.toffeemilkshake.co.uk/katie-twines/images/Nanga-Parbat.jpg&quot;&gt;
+
+You can go to [[India]] and [[China]] in the east.</tw-passagedata><tw-passagedata pid="6" name="Bangladesh" tags="" position="786,266">The Ganges and the Brahmaputra meet in Bangladesh and drain into the Bay of Bengal through the world&#x27;s largest river delta, the Sunderbans.
+
+
+￼&lt;img src=&quot;http://www.toffeemilkshake.co.uk/katie-twines/images/bangladesh.png&quot; width=&quot;500&quot;&gt;
+
+You can go to [[Nepal]] in the Northwest. You can go to [[India]] in the west and you can go to [[China]] in the north.
+</tw-passagedata><tw-passagedata pid="7" name="Nepal" tags="" position="604,161">Kathmandu is the capital of Nepal and the largest city in the Himalayas. 
+
+East of the Kathmandu Valley lies valley of the Bhote/Sun Kosi river which rises in Tibet and provides the main overland route between Nepal and China.
+
+Further east is the Mahalangur Himal with four of the world&#x27;s six highest mountains, including the highest: [[Mount Everest]].
+
+￼&lt;img src=&quot;http://www.toffeemilkshake.co.uk/katie-twines/images/kathmandu-himalayas.jpg&quot;&gt;
+
+You can get to [[China]] in the north [[India]] in the south and [[Bangladesh]] in the southeast.</tw-passagedata><tw-passagedata pid="8" name="Mount Everest" tags="" position="448,259">Congratulations! You have found Mount Everest.
+
+With an 8,850 metre summit it is the tallest mountain in the world.
+
+Molly Hughes is the youngest woman to climb Mount Everest and to climb both sides.
+
+She climbed the south side in 2012 when she was 21 and the north side in 2017 at the age of 26.
+
+Everest grows by half a centimeter every year.
+
+The temperature can be -62 C.
+
+In mid May each year, the jet stream moves north causing the winds the calm and temperatures to warm enough for people to try to summit. This is called the &#x27;summit window&#x27;.
+
+Everest is called Chomolungma by the Tibetan people. It means mother goddess of the universe.
+
+Like all mountains around the world the local indigenous people were the first to see it.
+
+The wind can blow over 200 mph.
+
+￼&lt;img src=&quot;http://www.toffeemilkshake.co.uk/katie-twines/images/everest.jpg&quot;&gt;</tw-passagedata></tw-storydata>
+
